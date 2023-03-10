@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Marçal",
+      "phone": "969-670-4731",
+      "street": "9 Fisk Avenue",
+      "city": "San Jose",
+      "id": "36eccf6d-f4c3-4343-99ad-766acd94a380"
+    },
+    {
+      "name": "Ellwood",
+      "phone": "650-973-4612",
+      "street": "1 Rowland Trail",
+      "city": "Guéret",
+      "id": "2f35c1e9-8943-473a-b3e3-c890954a3597"
+    },
+    {
+      "name": "Jessa",
+      "street": "023 Northport Drive",
+      "city": "Michałów-Reginów",
+      "id": "d5c37ad3-859e-4a3c-89d8-58a9f016180c"
+    }
+  ]
+}
